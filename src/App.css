@@ -44,6 +44,10 @@ td {
   color: grey;
 }
 
+input {
+  cursor: pointer;
+}
+
 @media screen and (max-width: 900px) {
   td {
     display: flex;
